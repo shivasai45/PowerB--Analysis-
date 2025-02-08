@@ -4,7 +4,7 @@
 This Power BI dashboard provides a **comprehensive analysis** of hotel revenue and occupancy trends, helping stakeholders make data-driven decisions. The dashboard includes **interactive filters** for city, class, category, and time period to explore key performance indicators.  
 
 ## 📸 Dashboard Preview  
-![Hotel Dashboard](https://github.com/Shivasai45/YourRepoName/blob/main/images/hotel_dashboard.png)  
+![Hotel Revenue & Occupancy Trends]()  
 
 ## 📊 Key Insights  
 - 💰 **Revenue & RevPAR:** Total revenue of **1.69bn** with an average **RevPAR of 7,337**.  
@@ -13,7 +13,7 @@ This Power BI dashboard provides a **comprehensive analysis** of hotel revenue a
 - 🔍 **Category-wise Revenue:** **Luxury hotels contribute 61.62%**, while **business hotels contribute 38.38%**.  
 - 📍 **City & Property Analysis:** **Bangalore, Mumbai, and Hyderabad** are the top-performing locations.  
 
-![Key Metrics](https://github.com/Shivasai45/YourRepoName/blob/main/images/key_metrics.png)  
+ 
 
 ## 🎯 Features  
 ✅ **Dynamic Slicers** – Filter data by City, Class, Category, and Time Period.  
@@ -22,7 +22,7 @@ This Power BI dashboard provides a **comprehensive analysis** of hotel revenue a
 ✅ **Property Insights** – Breakdown of key metrics by property.  
 ✅ **DAX Calculations** – Custom measures for deeper analytics.  
 
-![Filters & Trends](https://github.com/Shivasai45/YourRepoName/blob/main/images/filters_trends.png)  
+  
 
 ## 🛠️ Tools Used  
 - **Power BI** – Data visualization & dashboard design  
@@ -30,8 +30,8 @@ This Power BI dashboard provides a **comprehensive analysis** of hotel revenue a
 - **Excel / SQL** – Data preprocessing and transformation  
 
 ## 🚀 How to Use  
-1. Download the `.pbix` file from [this repository](https://github.com/Shivasai45/YourRepoName).  
+1. Download the `.pbix` file from this repository.  
 2. Open it in **Power BI Desktop**.  
 3. Explore the interactive dashboard and extract insights.  
 
-## 📂 Repository Structure  
+ 
