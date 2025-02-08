@@ -4,7 +4,7 @@
 This Power BI dashboard provides a **comprehensive analysis** of hotel revenue and occupancy trends, helping stakeholders make data-driven decisions. The dashboard includes **interactive filters** for city, class, category, and time period to explore key performance indicators.  
 
 ## 📸 Dashboard Preview  
-![Hotel Revenue & Occupancy Trends]()  
+![Hotel Revenue & Occupancy Trends](https://github.com/shivasai45/PowerB--Analysis-/blob/main/Image%20Hotel%20Project.png)  
 
 ## 📊 Key Insights  
 - 💰 **Revenue & RevPAR:** Total revenue of **1.69bn** with an average **RevPAR of 7,337**.  
